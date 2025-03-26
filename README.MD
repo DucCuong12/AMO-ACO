@@ -1,5 +1,4 @@
-AMO-ACO Inference, based code here:
-> [AMO-ACO](https://github.com/langkhachhoha/AMO-ACO-Model_Training_GECCO2024.git)
+
 # How to run
 Change cfg in **AMO-ACO.ipynb** to config suitable for your Dataset you want to run.
 
